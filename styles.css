@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+}
+
+.cloud-1 {
+  position: absolute;
+  left: 250px;
+  top: 50px;
+}
+
+.cloud-2 {
+  position: absolute;
+  right: 225px;
+  bottom: 300px;
+}
+
+h1 {
+  font-size: 375%;
+  margin: 0;
+  line-height: 3;
+  font-family: Sacramento, sans-serif;
+  color: #2C3333;
+}
+
+h2 {
+  font-family: Montserrat, sans-serif;
+  font-weight: normal;
+  font-size: 140%;
+  color: #152D35;
+}
+
+h3 {
+  font-family: Montserrat, sans-serif;
+  font-size: 115%;
+  color: #FF4C29;
+}
+
+.top-container {
+  background-color: #CCF6C8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #CCF6C8;
+  padding-top: 25px;
+}
+
+.bottom-container {
+  background-color: #7E7474;
+  margin: 0;
+}
+.contact-me {
+  background-color: #7E7474;
+  margin: 0;
+}
+
+.hat {
+  float: right;
+  width: 225px;
+  height: 225px;
+}
+
+.computer {
+  float: left;
+  margin-right: 30px;
+  width: 225px;
+  height: 225px;
+}
+
+header {
+  margin: 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 75px auto;
+  text-align: left;
+  line-height: 2
+}
+
+hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: #4D3E3E;
+   border-width: 5px;
+   width: 5%;
+ }
